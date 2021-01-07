@@ -17,6 +17,11 @@
       },
       {
         "type": "after-prepare",
+        "script": "scripts/ios/appsync-ios.js",
+        "inject": true
+      },
+      {
+        "type": "after-prepare",
         "script": "scripts/android/appsync-android.js",
         "inject": true
       }
