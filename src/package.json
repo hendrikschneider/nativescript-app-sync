@@ -70,7 +70,7 @@
   "dependencies": {
     "nativescript-app-sync-sdk": "~1.0.1",
     "nativescript-appversion": "~1.4.4",
-    "nativescript-hook": "git://github.com/NativeScript/nativescript-hook.git#52a5a08a318fceefb90c4a386e37dc90244977fc",
+    "nativescript-hook": "git://github.com/NativeScript/nativescript-hook.git#feat/ns7",
     "nativescript-zip": "~4.0.2"
   },
   "devDependencies": {
